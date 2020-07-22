@@ -1,1 +1,4 @@
 # TWITCH-CHAT-OVERLAY
+TO RUN THIS RUN THESE COMMAND
+npm install
+npm start
